@@ -49,7 +49,7 @@ function App() {
             <div className="flex flex-col lg:flex-row justify-around items-center">
                 <div className="flex-1 m-5 rounded-xl px-4 py-6 sm:px-8 sm:py-10 tm-bg-brown tm-item-container">
                     <div className="flex items-start mb-6 tm-menu-item">
-                        <img src="img/menu-item-1.jpg" alt="Image" className="rounded-md"/>
+                        <img src="img/menu-item-1.jpg" alt="Image" className="rounded-md" />
                         <div className="ml-3 sm:ml-6">
                             <h3 className="text-lg sm:text-xl mb-2 sm:mb-3 tm-text-yellow">Hot Cappuccino</h3>
                             <div className="text-white text-md sm:text-lg font-light mb-1">S $8.50</div>
@@ -57,7 +57,7 @@ function App() {
                         </div>                    
                     </div>
                     <div className="flex items-start mb-6 tm-menu-item">
-                        <img src="img/menu-item-2.jpg" alt="Image" className="rounded-md"/>
+                        <img src="img/menu-item-2.jpg" alt="Image" className="rounded-md" />
                         <div className="ml-3 sm:ml-6">
                             <h3 className="text-lg sm:text-xl mb-2 sm:mb-3 tm-text-yellow">Hot Americano</h3>
                             <div className="text-white text-md sm:text-lg font-light mb-1">S $9.50 . BG #544639</div>
